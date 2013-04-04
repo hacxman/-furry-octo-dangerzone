@@ -1,0 +1,3 @@
+READ before use of gen.py
+- it's used do 'issue new serial numbers' - and to generate images
+- use html2png.sh after you've fetched data from step above
